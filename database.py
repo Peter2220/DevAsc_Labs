@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
 """
-Intentional Typo
 Author: Nick Russo
 Purpose: A simple Flask web app that demonstrates the Model View Controller
 (MVC) pattern in a meaningful and somewhat realistic way.
@@ -46,6 +45,6 @@ class Database:
         acct = self.data.get(acct_id)
         if acct:
             bal = float(acct["due"]) - float(acct["paid"])
-            return f"{bal:.2f} USD"
             #return f"$ {bal:.2f}"
+            return f"{bal:.2f} USD"
         return None
