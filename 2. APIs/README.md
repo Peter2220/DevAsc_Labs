@@ -11,14 +11,14 @@
 
 
 ## Postman
-![img-2](https://github.com/Peter2220/DevAsc_Labs/raw/master/2.%20APIs/Postman%20Output.png)
+![img-2](https://github.com/Peter2220/DevAsc_Labs/raw/main/2.%20APIs/Postman%20Output.png)
 
 
 
 ## Python Script
-![img-3](https://github.com/Peter2220/DevAsc_Labs/raw/master/2.%20APIs/Python%20Output.png)
+![img-3](https://github.com/Peter2220/DevAsc_Labs/raw/main/2.%20APIs/Python%20Output.png)
 
 
 
 ## Python Script (Using pprint)
-![img-4](https://github.com/Peter2220/DevAsc_Labs/raw/master/2.%20APIs/Python%20Output%20(Using%20pprint).png)
+![img-4](https://github.com/Peter2220/DevAsc_Labs/raw/main/2.%20APIs/Python%20Output%20(Using%20pprint).png)
