@@ -8,6 +8,9 @@
 
 ![img-1](https://github.com/Peter2220/DevAsc_Labs/raw/main/2.%20APIs/Shell%20Script%20Output.png)
 
+## Shell Script (Using jq)
+![img-2](https://raw.githubusercontent.com/Peter2220/DevAsc_Labs/main/2.%20APIs/Shell%20Script%20(Using%20jq).png)
+
 
 
 ## Postman
